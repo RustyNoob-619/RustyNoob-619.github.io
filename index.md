@@ -11,5 +11,5 @@ That is all from me now, if you are interested in the security research that I u
 
 My first blog post is about the 100 Days of YARA challenge that I recently completed.
 
-[100 Days of YARA Challenge](https://rustynoob-619.github.io/2024/04/07/100-Days-of-YARA.html)
+[100 Days of YARA Challenge]](https://rustynoob-619.github.io/100-Days-of-YARA.html)
 
