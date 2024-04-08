@@ -1,4 +1,3 @@
-# Welcome to my Blog
 
 This is a place where I drop my blogs/articles/research. 
 
