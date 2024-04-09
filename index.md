@@ -1,7 +1,7 @@
 
 This is a place where I drop my Blogs/Articles/ResearchStuff. 
 
-## Enter Cringe Worthy Description which should have stayed on LinkedIn Here: 
+## Enter Cringe Worthy Description Here: 
 
 I am a Cyber Threat Intelligence Analyst working for an MSSP in UK with a previous background in Control Systems Engineering. My key focus in the current role is around adversary infrastructure tracking and have recently started my journey towards Malware Analysis with a focus on C2s. I love Python and want to get better at it. 
 
