@@ -5,7 +5,7 @@ title: "From Sushi To Kimsuky"
 date: 2024-09-27
 ---
 
-As part of routine research, I was going through Twitter to bookmark some interesting tweets that can potentially be operationalised to build detection content. While doing so, I happened to have come across a [tweet](https://x.com/fmc_nan/status/1819312957651865623) with a malware sample hash attributed to Kimsuky which is a North Korean APT. 
+As part of routine research, I was going through Twitter to bookmark some interesting tweets that can potentially be operationalised to build detection content. While doing so, I happened to have come across a [tweet](https://x.com/fmc_nan/status/1819312957651865623) by [fmc_nan](https://x.com/fmc_nan) with a malware sample hash attributed to Kimsuky which is a North Korean APT. 
 
 ![image](https://github.com/user-attachments/assets/c9d3384f-9a68-4e4a-8bb6-656160b4b843)
 
