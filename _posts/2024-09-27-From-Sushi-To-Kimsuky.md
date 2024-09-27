@@ -128,6 +128,7 @@ Taking the above concepts into consideration, the new and improved YARA rule wou
 ![image](https://github.com/user-attachments/assets/97886325-22c1-45e2-a67d-94ac152c0b79)
 
 **IOCs**
+
 d1f1019fb0f0810a8633bd0ef5a0d7b68ec94c5f09251eccd3e5076c97984377
 fe156159a26f8b7c140db61dd8b136e1c8103a800748fe9b70a3a3fdf179d3c3
 e936445935c4a636614f7113e4121695a5f3e4a6c137b7cdcceb6f629aa957c4
