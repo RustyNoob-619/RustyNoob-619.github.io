@@ -127,8 +127,50 @@ Taking the above concepts into consideration, the new and improved YARA rule wou
 
 ![image](https://github.com/user-attachments/assets/97886325-22c1-45e2-a67d-94ac152c0b79)
 
+**IOCs**
+d1f1019fb0f0810a8633bd0ef5a0d7b68ec94c5f09251eccd3e5076c97984377
+fe156159a26f8b7c140db61dd8b136e1c8103a800748fe9b70a3a3fdf179d3c3
+e936445935c4a636614f7113e4121695a5f3e4a6c137b7cdcceb6f629aa957c4
 
+**YARA Rule**
+'''
+rule LNK_Kimsuky_Aug2024
+{
+  meta:
+    description = "Detects LNK files used by North Korean APT Kimsuky"
+    Reference = "https://www.rapid7.com/globalassets/_pdfs/whitepaperguide/rapid7-Kimsukys-Phishing-and-Payload-Tactics_wp.pdf"
+    Filehash1 = "d1f1019fb0f0810a8633bd0ef5a0d7b68ec94c5f09251eccd3e5076c97984377"
+    Filehash2 = "e936445935c4a636614f7113e4121695a5f3e4a6c137b7cdcceb6f629aa957c4"
+    Filehash3 = "3065b8e4bb91b4229d1cea671e8959da8be2e7482067e1dd03519c882738045e"
+    author = "Yashraj Solanki - Cyber Threat Intelligence Analyst at Bridewell"
+    date = "2024-08-03"
+    yarahub_author_twitter = "@RustyNoob619"
+    yarahub_reference_md5 = "886535bbe925890a01f49f49f49fee40"
+    yarahub_uuid = "b5c30e45-849c-42c2-9e8f-10c8e75e2019"
+    yarahub_license = "CC0 1.0"
+    yarahub_rule_matching_tlp = "TLP:WHITE"
+    yarahub_rule_sharing_tlp = "TLP:RED"
 
+  strings:
+    $lnk = {4c	00	00	00	01	14	02	00}
+
+    $hex = {54 00 79	00	70	00	65	00	3a	00	20	00	54	00	65	00	78	00 
+          74 00	20	00	44	00	6f	00	63	00	75	00	6d	00	65	00   //Type: Text Document
+          6e 00	74	00	0a	00	53	00	69	00	7a	00	65	00	3a	00  // Size: 5.23 KB
+          20 00	35	00	2e	00	32	00	33	00	20	00	4b	00	42	00 //  Date modified: 01/02/2020 11:23
+          0a 00	44	00	61	00	74	00	65	00	20	00	6d	00	6f	00
+          64 00	69	00	66	00	69	00	65	00	64	00	3a	00	20	00
+          30 00	31	00	2f	00	30	00	32	00	2f	00	32	00	30	00
+          32 00	30	00	20	00	31	00	31	00	3a	00	32	00	33	00}
+    
+    $pwrshll = "/c powershell" wide
+
+  condition:
+    $lnk at 0
+    and $hex
+    and @pwrshll == @hex + 1156 // Large amount of space added before the actual command 
+}  
+'''
 
 
 
