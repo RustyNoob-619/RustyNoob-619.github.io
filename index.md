@@ -13,3 +13,5 @@ My first blog post is about the 100 Days of YARA challenge that I recently compl
 
 [100 Days of YARA Challenge](https://rustynoob-619.github.io/100-Days-of-YARA.html)
 
+[From Sushi To Kimsuky](https://rustynoob-619.github.io/From-Sushi-To-Kimsuky.html)
+
