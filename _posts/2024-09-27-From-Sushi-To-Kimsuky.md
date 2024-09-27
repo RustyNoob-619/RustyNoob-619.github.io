@@ -107,11 +107,11 @@ To calculate the address of _T_, first check the vertical addresses on the left 
 
 Performing the same process for the string _pwrshll_, we get the hexadecimal address for the character _/_ (which is 2F in hex) as **4D0** + **02** which is **4D2**.    
 
-![image.png](/.attachments/image-3b9a90ac-3f29-4184-9898-937d643cab80.png)
+![image](https://github.com/user-attachments/assets/d316a6e8-3cca-4d29-94d1-b2e79bc120ee)
 
 We can now use a hex calculator to perform subtraction of **4D2** and **04E** which results in **484** in hexadecimal and **1156** in decimal.
 
-![image.png](/.attachments/image-744cb490-fc6e-40b0-8d43-7c184a203078.png)
+![image](https://github.com/user-attachments/assets/d4d3aeaf-958a-42e6-b119-fc234f24ce79)
 
 **Note:** It is critical to keep track of the data types and not confuse hexadecimal with decimal, otherwise the calculations will be inaccurate.
 
@@ -125,7 +125,8 @@ This means that not only _str1_ should appear after _str2_ but there should be a
 
 Taking the above concepts into consideration, the new and improved YARA rule would be:
 
-![image.png](/.attachments/image-306809d3-eb2f-4175-aa58-68c8370e5fcd.png)
+![image](https://github.com/user-attachments/assets/97886325-22c1-45e2-a67d-94ac152c0b79)
+
 
 
 
