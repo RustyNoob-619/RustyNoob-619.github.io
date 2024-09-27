@@ -133,7 +133,7 @@ fe156159a26f8b7c140db61dd8b136e1c8103a800748fe9b70a3a3fdf179d3c3
 e936445935c4a636614f7113e4121695a5f3e4a6c137b7cdcceb6f629aa957c4
 
 **YARA Rule**
-'''
+
 rule LNK_Kimsuky_Aug2024
 {
   meta:
@@ -170,7 +170,7 @@ rule LNK_Kimsuky_Aug2024
     and $hex
     and @pwrshll == @hex + 1156 // Large amount of space added before the actual command 
 }  
-'''
+
 
 
 
