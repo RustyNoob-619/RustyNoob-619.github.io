@@ -142,14 +142,8 @@ rule LNK_Kimsuky_Aug2024
     Filehash1 = "d1f1019fb0f0810a8633bd0ef5a0d7b68ec94c5f09251eccd3e5076c97984377"
     Filehash2 = "e936445935c4a636614f7113e4121695a5f3e4a6c137b7cdcceb6f629aa957c4"
     Filehash3 = "3065b8e4bb91b4229d1cea671e8959da8be2e7482067e1dd03519c882738045e"
-    author = "Yashraj Solanki - Cyber Threat Intelligence Analyst at Bridewell"
+    author = "@RustyNoob619"
     date = "2024-08-03"
-    yarahub_author_twitter = "@RustyNoob619"
-    yarahub_reference_md5 = "886535bbe925890a01f49f49f49fee40"
-    yarahub_uuid = "b5c30e45-849c-42c2-9e8f-10c8e75e2019"
-    yarahub_license = "CC0 1.0"
-    yarahub_rule_matching_tlp = "TLP:WHITE"
-    yarahub_rule_sharing_tlp = "TLP:RED"
 
   strings:
     $lnk = {4c	00	00	00	01	14	02	00}
