@@ -15,5 +15,5 @@ My first blog post is about the 100 Days of YARA challenge that I recently compl
 
 [From Sushi To Kimsuky](https://rustynoob-619.github.io/From-Sushi-To-Kimsuky.html)
 
-[The GREM Reaper - Review of the SANS FOR610 Course](https://rustynoob-619.github.io/GREM-Reaper.html)
+[The GREM Reaper - Review of the SANS FOR610 Course](https://rustynoob-619.github.io/The-GREM-Reaper.html)
 
