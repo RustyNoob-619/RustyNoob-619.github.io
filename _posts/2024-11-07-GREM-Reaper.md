@@ -5,7 +5,6 @@ date: 2024-11-07
 
 ![image](https://github.com/user-attachments/assets/5bd550c8-9167-4dc0-8bf5-d344b9e8b8a5)
 
-
 # **Recap**
 Recently, I passed the GIAC GREM exam with 96%. I wanted to take the opportunity to review the course content and also compare it with some of the previous courses that I had undertaken. I will also share open-source materials that will support the training content. The objective is to help viewers better navigate the course selection process and also structure their learning path to ensure that prerequisites are met.
 
