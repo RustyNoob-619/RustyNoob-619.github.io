@@ -28,7 +28,8 @@ On the other hand, reverse engineering is the deeper examination of the malware 
 
 The above is important as the SANS course does not distinguish between the two terms, but I feel that a separation is required to better assess the course content.
 
-![image](https://github.com/user-attachments/assets/21f4bcf8-4753-48b4-b40c-b71cc1bbee79)
+![image](https://github.com/user-attachments/assets/b6f27aea-3ad3-4697-81a8-71285762a845)
+
 
 
 # **My Background**
