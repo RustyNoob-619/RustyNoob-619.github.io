@@ -104,9 +104,7 @@ Wanna score like me in the GREM exam, here is the secret, there is none. I would
 Do not study for passing the exam, go beyond that, try to embrace the journey, the result is only a bi-product. There are several involved topics in the course when may require you to revisit, this is particularly true during the day 4 and 5. You will find ample amount of open-source material both within and outside of the course, make sure to leverage it should time allow it.
 
 # **Other Training Courses**
-![image](https://github.com/user-attachments/assets/d383260b-bfbe-4e40-b4f1-44d13ea35e2f)
-
-
+![GREM (1)](https://github.com/user-attachments/assets/c72e0d83-9474-4ec1-8475-80b03ecda751)
 
 ## **Kaspersky Reversing Engineering 101:**
 
