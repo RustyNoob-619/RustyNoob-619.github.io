@@ -6,7 +6,8 @@ date: 2024-11-07
 # **Recap**
 Recently, I passed the GIAC GREM exam with 96%. I wanted to take the opportunity to review the course content and also compare it with some of the previous courses that I had undertaken. I will also share open-source materials that will support the training content. The objective is to help viewers better navigate the course selection process and also structure their learning path to ensure that prerequisites are met.
 
-![image.png](/.attachments/image-b64009fc-f17b-4374-86b6-a9c9ace27c0e.png)
+![image](https://github.com/user-attachments/assets/64eae213-a5fb-4509-8d9f-fbc6d2bfd609)
+
 
 This was my first SANS course which I had taken in-person in London which was delivered by [Xavier Mertens](https://x.com/xme) . My malware analysis journey began almost a year and half ago when I first started reading about it and went through some other training in the process. The sequence of my training courses is as follows:
 
@@ -23,7 +24,8 @@ On the other hand, reverse engineering is the deeper examination of the malware 
 
 The above is important as the SANS course does not distinguish between the two terms, but I feel that a separation is required to better assess the course content.
 
-![Pyramid Chart - Page 1.png](/.attachments/Pyramid%20Chart%20-%20Page%201-f9781891-faba-48a5-9091-cf5172fd2f64.png)
+![image](https://github.com/user-attachments/assets/21f4bcf8-4753-48b4-b40c-b71cc1bbee79)
+
 
 # **My Background**
 I have been working in the Cyber Threat Intelligence field for almost two years and have been dealing with malware to some extend directly or indirectly but not at the low assembly level. Hence, I am pretty much a noob when it comes to malware analysis. With respect to my field, my objective of learning malware analysis is to uncover additional indicators to enable wider pivoting and trace infection chains to later stages. 
@@ -97,7 +99,8 @@ Wanna score like me in the GREM exam, here is the secret, there is none. I would
 Do not study for passing the exam, go beyond that, try to embrace the journey, the result is only a bi-product. There are several involved topics in the course when may require you to revisit, this is particularly true during the day 4 and 5. You will find ample amount of open-source material both within and outside of the course, make sure to leverage it should time allow it.
 
 # **Other Training Courses**
-![GREM.png](/.attachments/GREM-65748433-8714-4aa5-ab2d-87267ce8ebe3.png)
+![image](https://github.com/user-attachments/assets/2628858a-fdad-45f7-9e53-3a56cccc1093)
+
 
 ## **Kaspersky Reversing Engineering 101:**
 
