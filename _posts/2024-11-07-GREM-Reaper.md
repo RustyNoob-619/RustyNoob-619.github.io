@@ -1,6 +1,6 @@
 ---
 title: "The GREM Reaper - Review of the SANS FOR610 Course"
-permalink: "The GREM Reaper"
+permalink: "The-GREM-Reaper"
 date: 2024-11-07
 ---
 
