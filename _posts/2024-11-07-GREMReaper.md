@@ -3,6 +3,8 @@ title: "The GREM Reaper - Review of the SANS FOR610 Course"
 date: 2024-11-07
 ---
 
+https://th.bing.com/th/id/OIG1.XwVorJWQB4cBRuXisSwp?pid=ImgGn
+
 # **Recap**
 Recently, I passed the GIAC GREM exam with 96%. I wanted to take the opportunity to review the course content and also compare it with some of the previous courses that I had undertaken. I will also share open-source materials that will support the training content. The objective is to help viewers better navigate the course selection process and also structure their learning path to ensure that prerequisites are met.
 
